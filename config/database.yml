@@ -19,7 +19,7 @@ development:
   encoding: unicode
   database: social_discount_development
   pool: 5
-  username: social_discount
+  username: 
   password:
 
   # Connect on a TCP socket. Omitted by default since the client uses a
