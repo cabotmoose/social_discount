@@ -17,3 +17,13 @@
 
 #Ignore db config
 /config/database.yml
+
+# Ignore other unneeded files.
+database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+.secret
